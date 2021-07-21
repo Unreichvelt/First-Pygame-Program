@@ -20,11 +20,11 @@ screen_width = pygame.display.Info().current_w
 center = screen_width / 2, screen_height / 2
 
 # Declare the sprites                                                                              ---SPRITES---
-green_coin = pygame.image.load(r"C:\\Users\Felix Laptop\Downloads\Greencoin.png")
-red_coin = pygame.image.load(r"C:\\Users\Felix Laptop\Downloads\Redcoin.png")
-blue_coin = pygame.image.load(r"C:\\Users\Felix Laptop\Downloads\Bluecoin.png")
-yellow_coin = pygame.image.load(r"C:\\Users\Felix Laptop\Downloads\Yellowcoin.png")
-player_sprite = pygame.image.load(r"C:\\Users\Felix Laptop\Downloads\purple_circle.png")
+green_coin = pygame.image.load("Greencoin.png")
+red_coin = pygame.image.load("Redcoin.png")
+blue_coin = pygame.image.load("Bluecoin.png")
+yellow_coin = pygame.image.load("Yellowcoin.png")
+player_sprite = pygame.image.load("purple_circle.png")
 
 # Set screen bounds                                                                                ---SCREEN VARS---
 bottom_of_screen = screen_height
