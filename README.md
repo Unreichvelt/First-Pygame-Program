@@ -1,1 +1,1 @@
-# First-Pygame-Program
+Honestly, this is just kind of me dorking around and trying to make a small game? I'm just doing stuff and learning some things that sound interesting, taking in skills i know I'll need for later games. It's interesting to say the least.
